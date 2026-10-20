@@ -1,4 +1,4 @@
-# Real---Time-Air-Traffic-Control-Simulation
+# Real-Time-Air-Traffic-Control-Simulation
 An event-driven simulator that tracks many aircraft in 3D airspace and handles conflicts as they are predicted.
 # Features
 * State-machine lifecycle for each aircraft, with terminated flights pruned automatically
